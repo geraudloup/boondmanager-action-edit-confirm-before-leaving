@@ -1,0 +1,1 @@
+# boondmanager-action-edit-confirm-before-leaving
